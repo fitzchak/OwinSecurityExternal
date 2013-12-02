@@ -59,7 +59,7 @@ namespace OwinSecurityExternal
 			//    appId: "",
 			//    appSecret: "");
 
-			//app.UseGoogleAuthentication();
+			app.UseGoogleAuthentication();
 		}
 	}
 }
